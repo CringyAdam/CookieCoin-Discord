@@ -1,3 +1,3 @@
-token = "Mzg5NTIxODQyODUyODU1ODM5.DQ8yAw.ycP4cM160mYScFsFxkyhSpHZiT0"
+token = "CENSORED"
 prefix = "c!"
 benID = 328104847809314816 # IDs must be an INT
